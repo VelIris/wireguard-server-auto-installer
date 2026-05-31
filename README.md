@@ -1,5 +1,7 @@
-WireGuard Auto Installer for Ubuntu
+WireGuard Auto Installer for Ubuntu.
+
 A fully automated WireGuard VPN deployment script for Ubuntu servers.
+
 The script installs and configures a WireGuard VPN server, enables IP forwarding, configures NAT routing, sets up UFW firewall rules, generates cryptographic keys, creates the first VPN client, and provides a utility for adding additional clients.
 
 Features
